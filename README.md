@@ -1,6 +1,4 @@
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&&width=380&color=7AF79A&size=30&lines=Hey!+It's+Benson!;I'm+a+Full+Stack+Developer...;I'm+a+Frontend+Enthusiast)](https://git.io/typing-svg) -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I'm+a+Full+Stack+Developer...;I'm+a+Frontend+Enthusiast&font=Orbitron&center=true&width=500&height=50&size=30&color=ffb703">
 </p>
@@ -32,13 +30,38 @@
   
 ## Recent Projects
 
-  <p>
- <a href="https://github.com/volvox747/CureAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
-</a>
-
-</a>
+ <p>
+  <div>
+    <a href="https://github.com/volvox747/CureAI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
+    </a>
+  </div>
+    <br/>
+    <a href="https://github.com/YuriDevAT/smart-shopping-list">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
+    </a>
 </p>
+
+
+
+## Tech Stack
+
+#### Languages
+
+<img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;
+<img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+<img width="60px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;
+
+#### Web Development
+
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
+
+#### Tools
+
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
