@@ -34,11 +34,10 @@
 
   <p>
  <a href="https://github.com/volvox747/CureAI">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
-   fdgf
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
 </a>
 
 </a>
