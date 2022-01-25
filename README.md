@@ -28,21 +28,18 @@
 <li> I'm currently learning <b>MongoDB</b>
   
 
-  
+
   
 ## Recent Projects
-  <br/>
-  <p >
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+
+  <p>
+ <a href="https://github.com/volvox747/CureAI">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
+   fdgf
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+
 </a>
 </p>
