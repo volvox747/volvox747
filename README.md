@@ -63,5 +63,10 @@
 #### Tools
 
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
+<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />&nbsp;
+
+<hr>
+
+![Volvox's GitHub stats](https://github-readme-stats.vercel.app/api?username=volvox747&show_icons=true&theme=outrun)
 
