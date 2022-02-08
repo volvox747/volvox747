@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I'm+a+Full+Stack+Developer...;I'm+a+Frontend+Enthusiast&font=Orbitron&center=true&width=500&height=50&size=30&color=ffb703">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I'm+a+passionate+Web+Developer...;I'm+a+consistent+and+a+presistent+learner&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
 </p>
 
 <hr>
@@ -22,8 +22,8 @@
 ## About Me
 
 <li> I'm a Final Year Computer Science and Engineering Undergrad
-<li> I'm currently working on <b>Frontend Development</b>
-<li> I'm currently learning <b>MongoDB</b>
+<li> My programming path intially started with Python and eventually learning <b>Java</b>
+<li> I'm passionate in Web Development and currently learning and actively working on <b>Backend Development</b> and <b>REST API</b>
   
 
 
@@ -31,6 +31,12 @@
 ## Recent Projects
 
  <p>
+  <div>
+    <a href="https://github.com/volvox747/RestAPI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=RestAPI&theme=tokyonight" />
+    </a>
+  </div>
+  <br/>
   <div>
     <a href="https://github.com/volvox747/CureAI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
