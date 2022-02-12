@@ -31,11 +31,11 @@
 ## Recent Projects
 
  <p>
-  <div>
+<!--   <div>
     <a href="https://github.com/volvox747/RestAPI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=RestAPI&theme=tokyonight" />
     </a>
-  </div>
+  </div> -->
   <br/>
   <div>
     <a href="https://github.com/volvox747/CureAI">
