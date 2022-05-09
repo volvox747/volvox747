@@ -23,7 +23,7 @@
 
 <li> I'm a Final Year Computer Science and Engineering Undergrad
 <li> My programming path intially started with Python and eventually learning <b>Java</b>
-<li> I'm passionate in Web Development and currently learning and actively working on <b>Backend Development</b> and <b>REST API</b>
+<li> I'm passionate in Web Development and currently learning React and actively working on <b>Weather Application</b> built using react
   
 
 
@@ -31,6 +31,12 @@
 ## Recent Projects
 
  <p>
+    <div>
+    <a href="https://github.com/volvox747/Weather">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=Weather&theme=tokyonight" />
+    </a>
+  </div>
+  <br/>
     <div>
     <a href="https://github.com/volvox747/KamSite">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=KamSite&theme=tokyonight" />
@@ -50,7 +56,7 @@
     </a>
   </div>
     <br/>
-    <a href="https://github.com/YuriDevAT/smart-shopping-list">
+    <a href="https://github.com/volvox747/newsHub">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
     </a>
 </p>
@@ -72,14 +78,16 @@
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
 <img width="70px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;
+<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
 <img width="40px" height="40px" src="https://github.com/volvox747/volvox747/blob/main/exjs.png" />&nbsp;
+          
 
 #### Tools
 
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 <img width="60px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&nbsp;
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />&nbsp;
+<!-- <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />&nbsp; -->
 
 <hr>
 
