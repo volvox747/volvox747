@@ -101,7 +101,7 @@
 
 <hr>
 
-![Volvox's GitHub stats](https://github-readme-stats.vercel.app/api?username=volvox747&show_icons=true&theme=outrun)
+![Volvox's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolVox747&show_icons=true&theme=outrun)
 
 <p> <img src="https://komarev.com/ghpvc/?username=volvox747" alt="volvox747" /> </p>
 
