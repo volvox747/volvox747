@@ -32,6 +32,16 @@
 
  <p>
     <div>
+    <a href="https://github.com/volvox747/LibraryUI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=LibraryUI&theme=tokyonight" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/volvox747/LibraryAPI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=LibraryAPI&theme=tokyonight" />
+    </a>
+  </div>
+    <div>
     <a href="https://github.com/volvox747/Weather">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=Weather&theme=tokyonight" />
     </a>
