@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/benson-thomas-ab675118b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/bensoncr7?h_r=internal-search&hr_r=1">
+  <a href="https://www.hackerrank.om/bensoncr7?h_r=internal-search&hr_r=1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
   </a>&nbsp;
   <a href="mailto:bensonthomascr7@gmail.com">
