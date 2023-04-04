@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I'm+a+passionate+Web+Developer...;I'm+a+consistent+and+a+presistent+learner&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+FullStack+ Developer...;I+love+to+share+what+I+learn&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
 </p>
 
 <hr>
@@ -21,9 +21,11 @@
 
 ## About Me
 
+<li> I'm a working as a Software Engineer working at IT service based company
 <li> I'm a Final Year Computer Science and Engineering Undergrad
-<li> My programming path intially started with Python and eventually learning <b>Java</b>
-<li> I'm passionate in Web Development and currently learning React and actively working on <b>Weather Application</b> built using react
+<li> My programming journey intially started with Python and eventually learning <b>Java</b>
+<li> I'm passionate in Web Development and currently focusing on Data Structure & Algorithms.
+<li> I have interest to learn Low Level Design & High Level Design in order to build scalable systems
   
 
 
