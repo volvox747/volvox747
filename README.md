@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+FullStack+ Developer...;I+love+to+share+what+I+learn&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+FullStack+Developer...;I'm+interested+to+learn+DSA+and+System+Design&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
 </p>
 
 <hr>
@@ -24,8 +24,8 @@
 <li> I'm a working as a Software Engineer working at IT service based company
 <li> I'm a Final Year Computer Science and Engineering Undergrad
 <li> My programming journey intially started with Python and eventually learning <b>Java</b>
-<li> I'm passionate in Web Development and currently focusing on Data Structure & Algorithms.
-<li> I have interest to learn Low Level Design & High Level Design in order to build scalable systems
+<li> I'm passionate in Web Development and currently focusing on <b>Data Structure & Algorithms</b>.
+<li> I have interest to learn <b>Low Level Design</b> & <b>High Level Design</b> in order to build scalable systems
   
 
 
@@ -48,26 +48,22 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=Weather&theme=tokyonight" />
     </a>
   </div>
-  <br/>
     <div>
     <a href="https://github.com/volvox747/KamSite">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=KamSite&theme=tokyonight" />
     </a>
   </div>
-  <br/>
   
   <div>
     <a href="https://github.com/volvox747/RestAPI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=RestAPI&theme=tokyonight" />
     </a>
   </div>
-  <br/>
   <div>
     <a href="https://github.com/volvox747/CureAI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=CureAI&theme=tokyonight" />
     </a>
   </div>
-    <br/>
     <a href="https://github.com/volvox747/newsHub">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=volvox747&repo=newsHub&theme=tokyonight" />
     </a>
@@ -89,15 +85,17 @@
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img width="70px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img width="40px" height="40px" src="https://github.com/volvox747/volvox747/blob/main/exjs.png" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />&nbsp;
+<img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
+          
+<!-- <img width="40px" height="40px" src="https://github.com/volvox747/volvox747/blob/main/exjs.png" />&nbsp; -->
           
 
 #### Tools
 
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img width="60px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />&nbsp;
 <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
 <!-- <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />&nbsp; -->
 
