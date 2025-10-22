@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+FullStack+Developer...;I'm+interested+to+learn+DSA+and+System+Design&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+Backend+Developer...&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
 </p>
 
 <hr>
