@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+Backend+Developer...&font=Orbitron&center=true&width=800&height=50&size=30&color=ffb703">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+It's+Benson!;I+work+as+a+Software+Developer;Experienced+in+building+backend+systems+and+cloud+based+applications&font=Orbitron&center=true&width=1200&height=50&size=32&color=ffb703">
 </p>
 
 <hr>
@@ -21,11 +21,7 @@
 
 ## About Me
 
-<li> I'm a working as a Software Engineer working at IT service based company
-<li> I'm a Final Year Computer Science and Engineering Undergrad
-<li> My programming journey intially started with Python and eventually learning <b>Java</b>
-<li> I'm passionate in Web Development and currently focusing on <b>Data Structure & Algorithms</b>.
-<li> I have interest to learn <b>Low Level Design</b> & <b>High Level Design</b> in order to build scalable systems
+<p>Software Engineer with 3 years of experience in Designing and Developing REST APIs, Architecting AWS Solutions (Lambda, S3, Elastic Beanstalk), Managing Databases, and Deploying Applications. Proficient in Java, Spring Boot, Redis, Cloud Services, and API Development. Adept at collaborating with clients and cross-functional teams, optimizing performance, and delivering scalable healthcare solutions with clean, maintainable code.</p>
   
 
 
